@@ -1,3 +1,5 @@
+/* main class */
+
 package mathQuiz;
 
 
@@ -8,7 +10,7 @@ public class MathQuiz {
 		/* A program to test your math knowledge
 		 * and let you train your math skills
 		 * starting with easy level (addition) 
-		 * and ending up with mixed calculations
+		 * and ending up with calculations
 		 * including subtraction, multiplication, 
 		 * division and modulo.
 		 * */

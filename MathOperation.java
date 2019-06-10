@@ -1,3 +1,5 @@
+/* parent class for math operations */
+
 package mathQuiz;
 
 public class MathOperation {

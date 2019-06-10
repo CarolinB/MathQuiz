@@ -1,3 +1,5 @@
+/* class holding game algorithm */
+
 package mathQuiz;
 
 import java.util.InputMismatchException;
@@ -5,7 +7,7 @@ import java.util.Scanner;
 
 public class MathGame {
 	
-	final static int COUNT = 1;	// number of right answers to reach next level
+	final static int COUNT = 10;	// number of right answers to reach next level
 	
 	public void startGame() {
 
